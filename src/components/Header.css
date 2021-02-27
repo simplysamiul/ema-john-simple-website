@@ -1,0 +1,25 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color: #000000;
+    line-height: 30px;
+    display: flex;
+    justify-content: left;
+}
+.header nav a{
+    color: #ffffff;
+    text-decoration: none;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: 20px;
+    transition: 0.5s;
+    
+}
+.header nav a:hover{
+    background-color: gainsboro;
+    color: #000000;
+}

@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    border-bottom:1px solid lightgray;
+    margin: 10px;
+    padding: 10px;
+
+}
+.product-name{
+    text-align: justify;
+    margin: 0 60px;
+    padding: 0 10px;
+}
+.product-name h4{
+    color: #0000ff;
+    font-size: 20px;
+    font-weight: 400;
+}
+.order-button{
+    background-color: #ebb01c;
+    width: 170px;
+    height: 35px;
+    cursor: pointer;
+    border: 1px solid #181818;
+    font-weight: 500;
+    
+}
